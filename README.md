@@ -1,6 +1,7 @@
 # -App
 //1. Splash screen
     val logo = "MONEY WAY"
+    val = intArraysOf( store details)
     
     //2. Main Screen
      val Buttons = for ("View all Spending,Calculate Remaining Budget, Exit button")
